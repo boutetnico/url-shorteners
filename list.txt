@@ -357,6 +357,7 @@ wb1.eu
 web99.eu
 wed.li
 wideo.fr
+wn.nr
 wp.me
 wtc.la
 wu.cz
